@@ -1,4 +1,4 @@
 arabic
 ======
 
-This is a tiny program for learning arabic letters.
+This is a tiny ruby green shoes program for learning arabic letters.
